@@ -58,7 +58,8 @@ font-family: sans-serif}
     cursor: pointer;
     display: block;
     float: right;
-    padding: 28px 20px;
+    padding-top: 20px;
+    padding-right: 20px;
     position: relative;
     user-select: none;
   }
