@@ -58,8 +58,7 @@ font-family: sans-serif}
     cursor: pointer;
     display: block;
     float: right;
-    padding-top: 20px;
-    padding-right: 20px;
+    padding: 28px 20px;
     position: relative;
     user-select: none;
   }
@@ -363,12 +362,13 @@ color: #FFFFFF;}
 
   @media only screen and (max-width: 700px){
 
-    .inicio{width: 100%;}
+    
 
     .texto-01 h1{font-size: 40px;
         color: #293145;
         margin-bottom: 40px;
-    padding: 20px;}
+    padding: 20px;
+  width: 90%;}
 
     .texto-01 button{margin: 20px;}
 
