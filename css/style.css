@@ -378,10 +378,13 @@ color: #FFFFFF;}
    width:95%;
    padding: 20px;}
 
-.baixe-nosso-app p{width: 95%;
+.baixe-nosso-app p{width: 90%;
 padding: 20px;}
 
 .apps{margin: 20px;}
+
+.texto-03 p{width: 95%;
+padding:20px;}
 
 .image-02 img{width: 95%;}
 
